@@ -1,19 +1,3 @@
-name: "futures"
-description: "An implementation of futures and streams featuring zero allocations, composability, and iterator-like interfaces."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/futures"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/futures/futures-0.3.13.crate"
-  }
-  version: "0.3.13"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2021
-    month: 4
-    day: 1
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4367183be1b21778c484a240f2e57cc0f4b84813bf63b23dd542413343855ec
+size 450
